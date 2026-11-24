@@ -1,0 +1,12 @@
+**/bin
+**/obj
+**/node_modules
+**/.vs
+**/.idea
+.git
+tests
+frontend/dist
+frontend/.angular
+**/App_Data
+**/*.db
+**/*.log
